@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-<img src="./assets/screenshot01.jpeg"/><img src="./assets/screenshot02.jpeg"/><img src="./assets/screenshot03.jpeg"/> 
+<img src="./assets/screenshot01.png"/><img src="./assets/screenshot02.png"/><img src="./assets/screenshot03.png"/> 
 
 ## Objetivo
 
