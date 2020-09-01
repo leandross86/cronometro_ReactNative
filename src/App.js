@@ -54,7 +54,7 @@ class App extends Component{
     return(
       <View style={styles.container}>
         <Image
-          source={require('./src/cronometro.png')}
+          source={require('../assets/cronometro.png')}
           style={styles.cronometro}
         />
         <Text style={styles.timer}> {this.state.numero.toFixed(1)} </Text>
